@@ -33,3 +33,4 @@ For contract deployment artifacts, see [base-org/contract-deployments](https://g
 - Copy `.env.example` to `.env` and fill in the variables.
 - `make deps`
 - Test contracts: `make test`
+This project is a demonstration of blockchain technology and smart contract integration.
